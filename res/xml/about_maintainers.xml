@@ -56,5 +56,10 @@
             carbon:githubLink="http://github.com/vishal-android-freak"
             carbon:emailDev="yzvishal.vd@gmail.com"/>
 
-
+        <com.carbon.about.widget.DeveloperPreference
+            carbon:nameDev="Christian &quot;Myself5&quot; Oder"
+            carbon:deviceStat="Galaxy S2 (i9100)"
+            carbon:googleHandle="103345265359054633486"
+            carbon:githubLink="http://github.com/Myself5"
+            carbon:emailDev="thchod@gmail.com" />
 </PreferenceScreen>
