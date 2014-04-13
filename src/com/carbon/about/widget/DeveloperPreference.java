@@ -139,7 +139,7 @@ public class DeveloperPreference extends Preference implements OnMenuItemClickLi
         }
         if (googleHandle != null) {
             popupMenu.getMenu().add(Menu.NONE, MENU_GOOGLEPLUS, 0, R.string.googleplus);
-            final String url = "https://plus.google.com/s2/photos/profile/" + googleHandle;
+            final String url = "https://lh3.googleusercontent.com/" + googleHandle;
             UrlImageViewHelper.setUrlDrawable(this.photoView, url, R.drawable.ic_null,
                     UrlImageViewHelper.CACHE_DURATION_TWO_DAYS);
         }

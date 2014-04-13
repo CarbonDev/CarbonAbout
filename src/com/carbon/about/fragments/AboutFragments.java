@@ -49,7 +49,7 @@ public class AboutFragments extends Fragment {
         btnDonate.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Uri donateURL = Uri.parse("https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=B-IUaCY1aJdq_krLXvz1oGeyIRvwGFcXKellKBlcE0QDuJAAWEB95J4Ldeu&dispatch=5885d80a13c0db1f8e263663d3faee8def8934b92a630e40b7fef61ab7e9fe63");
+                Uri donateURL = Uri.parse("https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WQV8UFE9JR9TG");
                 final Intent donIntent = new Intent(Intent.ACTION_VIEW, donateURL);
                 donIntent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TOP);
                 startActivity(donIntent);

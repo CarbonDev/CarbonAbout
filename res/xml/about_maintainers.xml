@@ -16,7 +16,7 @@
         <com.carbon.about.widget.DeveloperPreference
             carbon:nameDev="David &quot;PhaseBurn&quot; Bauman"
             carbon:deviceStat="Nexus 4 (mako), Nexus 10 (manta)"
-            carbon:googleHandle="101891874131763807773"
+            carbon:googleHandle="-VJ3b_Jcu7UU/UWXOeG1aZ1I/AAAAAAAAWRk/ztCPeFBUg0A/s48-no/"
             carbon:githubLink="http://github.com/phaseburn"
             carbon:emailDev="phaseburn@phaseburn.net"
             carbon:twitterLink="phaseburn" />
@@ -24,7 +24,7 @@
         <com.carbon.about.widget.DeveloperPreference
             carbon:nameDev="John Kirk"
             carbon:deviceStat="Galaxy S3 DoCoMo (d2dcm)"
-            carbon:googleHandle="105123805981409687545"
+            carbon:googleHandle="-_L6LghbsRyY/UztCedd8UwI/AAAAAAAATRQ/gKoVAAkazro/s719-no/"
             carbon:githubLink="http://github.com/xInterlopeRx"
             carbon:emailDev="jkirk777@gmail.com"
             carbon:twitterLink="xInterloper777x" />
@@ -38,28 +38,28 @@
         <com.carbon.about.widget.DeveloperPreference
             carbon:nameDev="Mehmet &quot;aways&quot; Sanok"
             carbon:deviceStat="Galaxy S4 I9505 (jfltexx)"
-            carbon:googleHandle="112103389398481585584"
+            carbon:googleHandle="-5tyThRVVJPA/UhjtD4bo4uI/AAAAAAAAC60/TpbciwTxpyA/s314-no/"
             carbon:githubLink="http://github.com/aways"
             carbon:emailDev="mehmetsanok@gmail.com" />
 
         <com.carbon.about.widget.DeveloperPreference
             carbon:nameDev="Rabih &quot;Somcom3x&quot; Salamey"
             carbon:deviceStat="Galaxy T769, I577, T989, I727"
-            carbon:googleHandle="103428140874910659774"
+            carbon:googleHandle="-D4Z0JMchNeM/Ul1aQeJvoZI/AAAAAAAAAX0/-UwbkqbNCfs/s256-no/"
             carbon:githubLink="http://github.com/somcom3x"
             carbon:emailDev="somcom3@gmail.com"/>
 
         <com.carbon.about.widget.DeveloperPreference
             carbon:nameDev="vishal_android freak"
             carbon:deviceStat="Xperia 2011 line up"
-            carbon:googleHandle="102092276437562778223"
+            carbon:googleHandle="-uGjKN6IBUzc/UybjyY0kmdI/AAAAAAAAAkg/ic3Wapj6iWs/s719-no/"
             carbon:githubLink="http://github.com/vishal-android-freak"
             carbon:emailDev="yzvishal.vd@gmail.com"/>
 
         <com.carbon.about.widget.DeveloperPreference
             carbon:nameDev="Christian &quot;Myself5&quot; Oder"
-            carbon:deviceStat="Galaxy S2 (i9100)"
-            carbon:googleHandle="103345265359054633486"
+            carbon:deviceStat="Galaxy S2 (i9100), Galaxy Note 10.1 (N8010)"
+            carbon:googleHandle="-1TxI7--ayWY/Uvzijb96vVI/AAAAAAAAABI/BlWtcM9EvBo/w720-h719-no/"
             carbon:githubLink="http://github.com/Myself5"
             carbon:emailDev="thchod@gmail.com" />
 </PreferenceScreen>
