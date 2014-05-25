@@ -22,20 +22,6 @@
             carbon:twitterLink="phaseburn" />
 
         <com.carbon.about.widget.DeveloperPreference
-            carbon:nameDev="John Kirk"
-            carbon:deviceStat="Galaxy S3 DoCoMo (d2dcm)"
-            carbon:googleHandle="-_L6LghbsRyY/UztCedd8UwI/AAAAAAAATRQ/gKoVAAkazro/s719-no/"
-            carbon:githubLink="http://github.com/xInterlopeRx"
-            carbon:emailDev="jkirk777@gmail.com"
-            carbon:twitterLink="xInterloper777x" />
-
-        <com.carbon.about.widget.DeveloperPreference
-            carbon:nameDev="Ktempleton"
-            carbon:deviceStat="Galaxy S I577, D710"
-            carbon:googleHandle="110561769492553874762"
-            carbon:githubLink="http://github.com/ktempleton" />
-
-        <com.carbon.about.widget.DeveloperPreference
             carbon:nameDev="Mehmet &quot;aways&quot; Sanok"
             carbon:deviceStat="Galaxy S4 I9505 (jfltexx)"
             carbon:googleHandle="-5tyThRVVJPA/UhjtD4bo4uI/AAAAAAAAC60/TpbciwTxpyA/s314-no/"

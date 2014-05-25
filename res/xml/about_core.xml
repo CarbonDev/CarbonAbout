@@ -20,7 +20,7 @@
             carbon:nameDev="Ahmed Khalil"
             carbon:statusDev="@string/status_pr"
             carbon:googleHandle="-NONqP20EsV8/UVqIIzeK50I/AAAAAAAACcM/BUjGumKG9_8/s309-no/"
-            carbon:emailDev="webmaster@carbon-rom.com" />
+            carbon:emailDev="support@carbonrom.org" />
 
         <com.carbon.about.widget.DeveloperPreference
             carbon:nameDev="Damien Deaucali"
@@ -98,4 +98,12 @@
             carbon:emailDev="ssspinni@gmail.com"
             carbon:twitterLink="stefanomura1973" />
 
+        <com.carbon.about.widget.DeveloperPreference
+            carbon:nameDev="John Kirk"
+            carbon:deviceStat="Galaxy S3 DoCoMo (d2dcm)"
+            carbon:statusDev="@string/status_core_dev"
+            carbon:googleHandle="-_L6LghbsRyY/UztCedd8UwI/AAAAAAAATRQ/gKoVAAkazro/s719-no/"
+            carbon:githubLink="http://github.com/xInterlopeRx"
+            carbon:emailDev="jkirk777@gmail.com"
+            carbon:twitterLink="xInterloper777x" />
 </PreferenceScreen>
