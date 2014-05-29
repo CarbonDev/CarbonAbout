@@ -29,7 +29,6 @@
 
         <com.carbon.about.widget.DeveloperPreference
             carbon:nameDev="vishal_android freak"
-            carbon:deviceStat="Xperia 2011 line up"
             carbon:googleHandle="-uGjKN6IBUzc/UybjyY0kmdI/AAAAAAAAAkg/ic3Wapj6iWs/s719-no/"
             carbon:githubLink="http://github.com/vishal-android-freak"
             carbon:emailDev="yzvishal.vd@gmail.com"/>
