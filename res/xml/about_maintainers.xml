@@ -14,14 +14,6 @@
         -->
 
         <com.carbon.about.widget.DeveloperPreference
-            carbon:nameDev="David &quot;PhaseBurn&quot; Bauman"
-            carbon:deviceStat="Nexus 4 (mako), Nexus 10 (manta)"
-            carbon:googleHandle="-VJ3b_Jcu7UU/UWXOeG1aZ1I/AAAAAAAAWRk/ztCPeFBUg0A/s48-no/"
-            carbon:githubLink="http://github.com/phaseburn"
-            carbon:emailDev="phaseburn@phaseburn.net"
-            carbon:twitterLink="phaseburn" />
-
-        <com.carbon.about.widget.DeveloperPreference
             carbon:nameDev="Mehmet &quot;aways&quot; Sanok"
             carbon:deviceStat="Galaxy S4 I9505 (jfltexx)"
             carbon:googleHandle="-5tyThRVVJPA/UhjtD4bo4uI/AAAAAAAAC60/TpbciwTxpyA/s314-no/"

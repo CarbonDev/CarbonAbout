@@ -37,6 +37,15 @@
             carbon:twitterLink="daxxmax" />
 
         <com.carbon.about.widget.DeveloperPreference
+            carbon:nameDev="David &quot;PhaseBurn&quot; Bauman"
+            carbon:deviceStat="Nexus 4 (mako), Nexus 10 (manta)"
+            carbon:statusDev="@string/status_core_dev"
+            carbon:googleHandle="-VJ3b_Jcu7UU/UWXOeG1aZ1I/AAAAAAAAWRk/ztCPeFBUg0A/s48-no/"
+            carbon:githubLink="http://github.com/phaseburn"
+            carbon:emailDev="phaseburn@phaseburn.net"
+            carbon:twitterLink="phaseburn" />
+
+        <com.carbon.about.widget.DeveloperPreference
             carbon:nameDev="Derek Gelinas"
             carbon:statusDev="@string/status_dev_and_co_founder"
             carbon:googleHandle="-F-hAPje6WpM/ThUTEZoUu4I/AAAAAAAADm0/okgfS7wlhdU/s358-no/"
