@@ -14,11 +14,11 @@
         -->
 
         <com.carbon.about.widget.DeveloperPreference
-            carbon:nameDev="Mehmet &quot;aways&quot; Sanok"
-            carbon:deviceStat="Galaxy S4 I9505 (jfltexx)"
-            carbon:googleHandle="-5tyThRVVJPA/UhjtD4bo4uI/AAAAAAAAC60/TpbciwTxpyA/s314-no/"
-            carbon:githubLink="http://github.com/aways"
-            carbon:emailDev="mehmetsanok@gmail.com" />
+            carbon:nameDev="Christian &quot;Myself5&quot; Oder"
+            carbon:deviceStat="Galaxy S2 (i9100), Galaxy Note 10.1 (N8010)"
+            carbon:googleHandle="-1TxI7--ayWY/Uvzijb96vVI/AAAAAAAAABI/BlWtcM9EvBo/w720-h719-no/"
+            carbon:githubLink="http://github.com/Myself5"
+            carbon:emailDev="thchod@gmail.com" />
 
         <com.carbon.about.widget.DeveloperPreference
             carbon:nameDev="Rabih &quot;Somcom3x&quot; Salamey"
@@ -28,15 +28,8 @@
             carbon:emailDev="somcom3@gmail.com"/>
 
         <com.carbon.about.widget.DeveloperPreference
-            carbon:nameDev="vishal_android freak"
+            carbon:nameDev="Vishal &quot;vishal_android freak&quot; Dubey"
             carbon:googleHandle="-uGjKN6IBUzc/UybjyY0kmdI/AAAAAAAAAkg/ic3Wapj6iWs/s719-no/"
             carbon:githubLink="http://github.com/vishal-android-freak"
             carbon:emailDev="yzvishal.vd@gmail.com"/>
-
-        <com.carbon.about.widget.DeveloperPreference
-            carbon:nameDev="Christian &quot;Myself5&quot; Oder"
-            carbon:deviceStat="Galaxy S2 (i9100), Galaxy Note 10.1 (N8010)"
-            carbon:googleHandle="-1TxI7--ayWY/Uvzijb96vVI/AAAAAAAAABI/BlWtcM9EvBo/w720-h719-no/"
-            carbon:githubLink="http://github.com/Myself5"
-            carbon:emailDev="thchod@gmail.com" />
 </PreferenceScreen>

@@ -60,7 +60,7 @@ public class AboutFragments extends Fragment {
         btnWebsite.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Uri webURL = Uri.parse("http://carbon-rom.com");
+                Uri webURL = Uri.parse("http://carbonrom.org");
                 final Intent webIntent = new Intent(Intent.ACTION_VIEW, webURL);
                 webIntent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TOP);
                 startActivity(webIntent);

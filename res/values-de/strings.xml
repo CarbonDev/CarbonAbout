@@ -17,7 +17,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <string name="app_name">Über Carbon</string>
-    <string name="maintainers_title">Betreuer</string>
+    <string name="maintainers_title">Geräte-Betreuer</string>
     <string name="maintainers_version_text">in keiner bestimmten Reihenfolge aufgelistet</string>
     <string name="finish_button_text">Beenden</string>
     <string name="back_button_text">Zurück</string>
@@ -27,8 +27,9 @@
     <!-- Tabs -->
     <string name="about_title">Über</string>
     <string name="features_title">Features</string>
-    <string name="carbon_main_members">Das Team</string>
-    <string name="carbon_maintainers">Betreuer</string>
+    <string name="carbon_main_members">Kern-Entwickler</string>
+    <string name="carbon_developers">Entwickler</string>
+    <string name="carbon_maintainers">Geräte-Betreuer</string>
     <string name="carbon_team">Team Zusammensetzung</string>
 
     <!-- Carbon Team -->
