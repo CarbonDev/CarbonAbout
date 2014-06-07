@@ -9,6 +9,7 @@
         <attr name="emailDev" format="string" />
         <attr name="githubLink" format="string" />
         <attr name="googleHandle" format="string" />
+        <attr name="googleProfile" format="string" />
         <attr name="nameDev" format="string" />
         <attr name="statusDev" format="string" />
         <attr name="twitterLink" format="string" />

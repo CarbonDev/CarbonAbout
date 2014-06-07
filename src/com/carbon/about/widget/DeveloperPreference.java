@@ -66,6 +66,7 @@ public class DeveloperPreference extends Preference implements OnMenuItemClickLi
     private String statusDev;
     private String emailDev;
     private String googleHandle;
+    private String googleProfile;
     private String donateLink;
     private String githubLink;
     private String twitterLink;
@@ -87,6 +88,7 @@ public class DeveloperPreference extends Preference implements OnMenuItemClickLi
             nameDev = typedArray.getString(R.styleable.DeveloperPreference_nameDev);
             statusDev = typedArray.getString(R.styleable.DeveloperPreference_statusDev);
             googleHandle = typedArray.getString(R.styleable.DeveloperPreference_googleHandle);
+            googleProfile = typedArray.getString(R.styleable.DeveloperPreference_googleProfile);
             twitterLink = typedArray.getString(R.styleable.DeveloperPreference_twitterLink);
             donateLink = typedArray.getString(R.styleable.DeveloperPreference_donateLink);
             githubLink = typedArray.getString(R.styleable.DeveloperPreference_githubLink);
@@ -138,10 +140,12 @@ public class DeveloperPreference extends Preference implements OnMenuItemClickLi
             popupMenu.getMenu().add(Menu.NONE, MENU_EMAIL, 0, R.string.email);
         }
         if (googleHandle != null) {
-            popupMenu.getMenu().add(Menu.NONE, MENU_GOOGLEPLUS, 0, R.string.googleplus);
             final String url = "https://lh3.googleusercontent.com/" + googleHandle;
             UrlImageViewHelper.setUrlDrawable(this.photoView, url, R.drawable.ic_null,
                     UrlImageViewHelper.CACHE_DURATION_TWO_DAYS);
+        }
+        if (googleProfile != null) {
+            popupMenu.getMenu().add(Menu.NONE, MENU_GOOGLEPLUS, 0, R.string.googleplus);
         }
         if (githubLink != null) {
             popupMenu.getMenu().add(Menu.NONE, MENU_GITHUB, 0, R.string.github);
@@ -190,7 +194,7 @@ public class DeveloperPreference extends Preference implements OnMenuItemClickLi
                 getContext().startActivity(emaintent);
                 break;
             case MENU_GOOGLEPLUS:
-                Uri gplusURL = Uri.parse("https://plus.google.com/u/0/" + googleHandle + "/about");
+                Uri gplusURL = Uri.parse("https://plus.google.com/u/0/" + googleProfile + "/about");
                 final Intent gpintent = new Intent(Intent.ACTION_VIEW, gplusURL);
                 gpintent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TOP);
                 getContext().startActivity(gpintent);
