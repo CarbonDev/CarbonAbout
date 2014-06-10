@@ -17,7 +17,7 @@
             carbon:emailDev="support@carbonrom.org" />
 
         <com.carbon.about.widget.DeveloperPreference
-            carbon:nameDev="Andros &quot;andros11&quot; Rosa"
+            carbon:nameDev="Andros &quot;Knight of Carbon&quot; Rosa"
             carbon:deviceStat="Galaxy S3 (i9300), I997"
             carbon:statusDev="@string/status_core_dev"
             carbon:googleHandle="-0CXdeEtrWmc/UqlZ-Jfh8oI/AAAAAAAAANc/uS1Rirs6J1w/w721-h719-no/"
