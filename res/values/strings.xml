@@ -16,47 +16,47 @@
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="app_name">About Carbon</string>
-    <string name="maintainers_title">Maintainers</string>
-    <string name="maintainers_version_text">listed in no particular order</string>
-    <string name="finish_button_text">Finish</string>
-    <string name="back_button_text">Back</string>
-    <string name="next_button_text">Next</string>
-    <string name="menu_exit">Exit</string>
+    <string name="app_name">Acerca Carbon</string>
+    <string name="maintainers_title">Mantenedor</string>
+    <string name="maintainers_version_text">enumerados en ningún orden en particular</string>
+    <string name="finish_button_text">Finalizar</string>
+    <string name="back_button_text">Atrás</string>
+    <string name="next_button_text">Siguiente</string>
+    <string name="menu_exit">Salir</string>
 
     <!-- Tabs -->
-    <string name="about_title">About</string>
-    <string name="features_title">Features</string>
-    <string name="carbon_main_members">Core Team</string>
-    <string name="carbon_developers">Developers</string>
-    <string name="carbon_maintainers">Maintainers</string>
-    <string name="carbon_team">Team Meetup</string>
+    <string name="about_title">Acerca</string>
+    <string name="features_title">Caracteristicas</string>
+    <string name="carbon_main_members">Equipo principal</string>
+    <string name="carbon_developers">Desarrolladores</string>
+    <string name="carbon_maintainers">Mantenedores</string>
+    <string name="carbon_team">Equipo Meetup</string>
 
     <!-- Carbon Team -->
-    <string name="carbon_title">Carbon Team</string>
+    <string name="carbon_title">Equipo de Carbon</string>
     <string name="carbon_version_text"></string>
 
     <!-- Drawer dependency -->
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="navigation_drawer_toggle">Toggle Drawer</string>
-    <string name="toggle_back_cfibers">Back</string>
+    <string name="navigation_drawer_open">Abrir barra de navegación</string>
+    <string name="navigation_drawer_close">Cerrar barra de navegación</string>
+    <string name="navigation_drawer_toggle">Ajustes rápidos</string>
+    <string name="toggle_back_cfibers">Atrás</string>
 
     <!-- Layout dev_card strings -->
-    <string name="donate">Donate</string>
+    <string name="donate">Donar</string>
     <string name="email">Email</string>
     <string name="googleplus">Google+</string>
     <string name="github">Github</string>
     <string name="twitter">Twitter</string>
 
-    <string name="status_dev">Developer</string>
-    <string name="status_designers">Designer</string>
-    <string name="status_pr">Public Relations &amp; Social Media</string>
-    <string name="status_gerrit">Gerrit Maintainer</string>
-    <string name="status_core_dev">Core Developer</string>
-    <string name="status_dev_and_co_founder">Developer / Co-Founder</string>
+    <string name="status_dev">Desarrollador</string>
+    <string name="status_designers">Diseñador</string>
+    <string name="status_pr">Relacciones públicas &amp; Multimedia social</string>
+    <string name="status_gerrit">Mantenedor Gerrit</string>
+    <string name="status_core_dev">Desarrador principal</string>
+    <string name="status_dev_and_co_founder">Desarrollador / Co-Fundador</string>
 
     <!-- URLs -->
-    <string name="cr_website_title">Visit our website</string>
-    <string name="cr_donate_title">Donate to CarbonDev</string>
+    <string name="cr_website_title">Visita nuestra web</string>
+    <string name="cr_donate_title">Donar a CarbonDev</string>
 </resources>
