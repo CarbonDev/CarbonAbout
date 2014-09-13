@@ -283,7 +283,8 @@ public class AboutActivity extends FragmentActivity {
                 getString(R.string.about_title),
                 getString(R.string.carbon_main_members),
                 getString(R.string.carbon_developers),
-                getString(R.string.carbon_maintainers)};
+                getString(R.string.carbon_maintainers),
+                getString(R.string.carbon_changelog)};
         return titleString;
     }
 
@@ -299,8 +300,8 @@ public class AboutActivity extends FragmentActivity {
     public static final int FRAGMENT_ID_CORE_TEAM = 1;
     public static final int FRAGMENT_ID_DEVELOPERS = 2;
     public static final int FRAGMENT_ID_MAINTAINERS = 3;
-    // public static final int FRAGMENT_ID_CREDITS = 4;
-    // public static final int FRAGMENT_ID_CHANGELOG = 5;
+    public static final int FRAGMENT_ID_CHANGELOG = 4;
+    // public static final int FRAGMENT_ID_CREDITS = 5;
 
     public static class PlaceholderFragment extends Fragment {
 
@@ -323,6 +324,9 @@ public class AboutActivity extends FragmentActivity {
                     break;
                 case FRAGMENT_ID_MAINTAINERS:
                     fragment = new AboutMaintainers();
+                    break;
+                case FRAGMENT_ID_CHANGELOG:
+                    fragment = new CarbonChangelog();
                     break;
             }
 

@@ -31,6 +31,7 @@
     <string name="carbon_developers">Developers</string>
     <string name="carbon_maintainers">Maintainers</string>
     <string name="carbon_team">Team Meetup</string>
+    <string name="carbon_changelog">Changelog</string>
 
     <!-- Carbon Team -->
     <string name="carbon_title">Carbon Team</string>
@@ -55,6 +56,11 @@
     <string name="status_gerrit">Gerrit Maintainer</string>
     <string name="status_core_dev">Core Developer</string>
     <string name="status_dev_and_co_founder">Developer / Co-Founder</string>
+
+    <!-- Changelog -->
+    <string name="changelog_url">https://carbonrom.org/changelog/</string>
+    <string name="changelog_not_connected_msg">Please connect to the internet and try again.</string>
+    <string name="changelog_not_connected_title">No network connection</string>
 
     <!-- URLs -->
     <string name="cr_website_title">Visit our website</string>
