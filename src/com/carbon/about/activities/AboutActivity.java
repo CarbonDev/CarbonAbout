@@ -96,6 +96,10 @@ public class AboutActivity extends FragmentActivity {
                 getTitles()));
         mDrawerListView.setItemChecked(mCurrentSelectedPosition, true);
 
+        if (savedInstanceState != null) {
+            mCurrentSelectedPosition = savedInstanceState.getInt(STATE_SELECTED_POSITION);
+            mFromSavedInstanceState = true;
+        }
         setUpNavigationDrawer(
                 findViewById(R.id.dw_navigation_drawer),
                 (CustomDrawerLayout) findViewById(R.id.dw_drawer_layout));
@@ -103,11 +107,6 @@ public class AboutActivity extends FragmentActivity {
         ActionBar ab = getActionBar();
         ab.setDisplayHomeAsUpEnabled(true);
         ab.setHomeButtonEnabled(true);
-
-        if (savedInstanceState != null) {
-            mCurrentSelectedPosition = savedInstanceState.getInt(STATE_SELECTED_POSITION);
-            mFromSavedInstanceState = true;
-        }
     }
 
     @Override
